@@ -1,0 +1,22 @@
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.Con.97A6B4C2.Up2Date
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.ConsoleUI\obj\Debug\Ex03.Con.97A6B4C2.Up2Date

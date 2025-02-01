@@ -1,0 +1,14 @@
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+D:\c#\project3\Ex03 Bar 207703026 Tal 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+D:\c#\project3\A25 Ex03 BarBrener 207703026 TalBenShimon 318876380\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
